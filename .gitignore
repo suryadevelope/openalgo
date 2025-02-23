@@ -13,6 +13,7 @@ Thumbs.db
 .python-version
 config.ini
 
+backtesting/
 
 #DB Files, CSV Files and Log/Tmp Files
 
